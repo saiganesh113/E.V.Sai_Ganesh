@@ -1,3 +1,4 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm E.V Sai Ganesh</h1>
 <h3 align="center">A passionate Web & Mobile Developer and UI/UX Designer from India</h3>
 
@@ -9,13 +10,13 @@
 
 - 🤝 I’m looking to collaborate on [Chruch-Management-system](https://www.figma.com/design/ECFjM13sLmVxqjUkjNkvLq/Church-Management-System?node-id=377-692&p=f&t=XvrgXKEV9KBdaI4n-0)
 
-- 👨‍💻 All of my projects are available at [https://saiganesh113.github.io/My_Portfolio/](https://saiganesh113.github.io/My_Portfolio/)
-
-- 💬 Ask me about **Frontend Development-(HTML,JavaScript,React.js,React-Native,Vue.js,Angularjs), Backend Development -(Node.js,Java,Python,Express.js) ,DataBase - (MongoDB,MySQL) ,UI/UX Design**
+- 👨‍💻 All of my projects are available at [My_portfolio](https://saiganesh113.github.io/My_Portfolio/)
 
 - 📫 How to reach me **iamevsaiganesh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1buPrcEMHasEAwecxGY1REDeN1FlZoFvS/view?usp=sharing](https://drive.google.com/file/d/1buPrcEMHasEAwecxGY1REDeN1FlZoFvS/view?usp=sharing)
+- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1buPrcEMHasEAwecxGY1REDeN1FlZoFvS/view?usp=sharing)
+
+- 💬 Ask me about **Frontend Development-(HTML,JavaScript,React.js,React-Native,Vue.js,Angularjs), Backend Development -(Node.js,Java,Python,Express.js) ,DataBase - (MongoDB,MySQL) ,UI/UX Design**
 
 - ⚡ Fun fact **I can spend hours perfecting a pixel but still forget my coffee on the table!**
 
@@ -33,3 +34,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiganesh113&show_icons=true&locale=en&layout=compact" alt="saiganesh113" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiganesh113&show_icons=true&locale=en" alt="saiganesh113" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiganesh113&label=Profile%20views&color=0e75b6&style=flat" alt="saiganesh113" /> </p>
+
+### 🔥 Streak Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saiganesh113&theme=radical&background=ffffff" alt="GitHub Streak">
+</p>
+
+
