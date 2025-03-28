@@ -1,47 +1,58 @@
-![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+![Animated Banner](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)  
+<img align="right" alt="Coding" width="300" src="https://github.com/saiganesh113/My_Portfolio/blob/main/assets/img/profile.png?raw=true">
+### 🌟 **Hi, I'm E.V Sai Ganesh!**  
+🚀 Passionate **Web & Mobile Developer** | 🎨 **UI/UX Designer** | 💡 Tech Enthusiast from **India**  
 
-<h1 align="center">Hi 👋, I'm E.V Sai Ganesh</h1>
-<h3 align="center">A passionate Web & Mobile Developer and UI/UX Designer from India</h3>
+🔭 **Currently working on:** **User-Management System**  
+🌱 **Exploring:** **Next.js, TypeScript & Tailwind CSS**  
+🤝 **Looking to collaborate on:** **[Church Management System](https://www.figma.com/design/ECFjM13sLmVxqjUkjNkvLq/Church-Management-System?node-id=377-692&p=f&t=XvrgXKEV9KBdaI4n-0)**  
 
+📫 **Reach me at:** [iamevsaiganesh@gmail.com](mailto:iamevsaiganesh@gmail.com)  
+📂 **Portfolio:** [My Portfolio](https://saiganesh113.github.io/My_Portfolio/)  
+📄 **Resume:** [View Here](https://drive.google.com/file/d/1buPrcEMHasEAwecxGY1REDeN1FlZoFvS/view?usp=sharing)  
+
+> 💡 **Fun Fact:** *I can spend hours perfecting a pixel but still forget my coffee on the table!* ☕  
+
+---
+
+## 🚀 **Tech Stack & Tools I Use:**  
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
 
-- 🔭 I’m currently working on **User-Management-system**
+| **Frontend** | **Backend** | **Database** | **Tools & Platforms** |
+|-------------|------------|-------------|----------------------|
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |  | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) |  | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) |  |  |
+| ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) |  |  |  |
 
-- 🌱 I’m currently learning **Next.js, TypeScript, and Tailwind CSS**
 
-- 🤝 I’m looking to collaborate on [Chruch-Management-system](https://www.figma.com/design/ECFjM13sLmVxqjUkjNkvLq/Church-Management-System?node-id=377-692&p=f&t=XvrgXKEV9KBdaI4n-0)
+## 🌍 **Let's Connect!**  
+💼 **LinkedIn:** [Eduru Venkata Sai Ganesh](https://www.linkedin.com/in/eduru-venkata-sai-ganesh/)  
+📘 **Facebook:** [Sai Ganesh](https://www.facebook.com/itz.me.e.v.s.ganesh?mibextid=zbwkwl)  
+📸 **Instagram:** [catastrophic_l](https://www.instagram.com/catastrophic_l?igsh=otz4oxqynhi0zme0)  
+🎮 **Discord:** `sai_ganesh_113`  
 
-- 👨‍💻 All of my projects are available at [My_portfolio](https://saiganesh113.github.io/My_Portfolio/)
+---
 
-- 📫 How to reach me **iamevsaiganesh@gmail.com**
-
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1buPrcEMHasEAwecxGY1REDeN1FlZoFvS/view?usp=sharing)
-
-- 💬 Ask me about **Frontend Development-(HTML,JavaScript,React.js,React-Native,Vue.js,Angularjs), Backend Development -(Node.js,Java,Python,Express.js) ,DataBase - (MongoDB,MySQL) ,UI/UX Design**
-
-- ⚡ Fun fact **I can spend hours perfecting a pixel but still forget my coffee on the table!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eduru-venkata-sai-ganesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduru-venkata-sai-ganesh/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/itz.me.e.v.s.ganesh?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/itz.me.e.v.s.ganesh?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/catastrophic_l?igsh=otz4oxqynhi0zme0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/catastrophic_l?igsh=otz4oxqynhi0zme0" height="30" width="40" /></a>
-<a href="https://discord.gg/sai_ganesh_113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sai_ganesh_113" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiganesh113&show_icons=true&locale=en&layout=compact" alt="saiganesh113" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiganesh113&show_icons=true&locale=en" alt="saiganesh113" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiganesh113&label=Profile%20views&color=0e75b6&style=flat" alt="saiganesh113" /> </p>
-
-### 🔥 Streak Stats:
+## 📊 **GitHub Stats:**  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saiganesh113&theme=radical&background=ffffff" alt="GitHub Streak">
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=saiganesh113&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saiganesh113&theme=radical&background=ffffff" width="48%" />
+</p>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saiganesh113&show_icons=true&locale=en&layout=compact" width="48%" />
+</p>  
 
+🔥 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=saiganesh113&label=Profile%20views&color=0e75b6&style=flat)  
 
+---
+
+## 🎯 **What I Do Best:**  
+✅ Frontend Development (**React.js, Vue.js, Angular**)  
+✅ Backend Development (**Node.js, Express.js, Java, Python**)  
+✅ Database Management (**MongoDB, MySQL**)  
+✅ UI/UX Designing (**Figma, Photoshop**)  
+✅ Mobile App Development (**React Native, Android**)  
 
