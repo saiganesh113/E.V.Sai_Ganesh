@@ -29,16 +29,34 @@
 
 
 ## 🌍 **Let's Connect!**  
-💼 **LinkedIn:** [Eduru Venkata Sai Ganesh](https://www.linkedin.com/in/eduru-venkata-sai-ganesh/)  
-📘 **Facebook:** [Sai Ganesh](https://www.facebook.com/itz.me.e.v.s.ganesh?mibextid=zbwkwl)  
-📸 **Instagram:** [catastrophic_l](https://www.instagram.com/catastrophic_l?igsh=otz4oxqynhi0zme0)  
-🎮 **Discord:** `sai_ganesh_113`  
+<p>
+  <a href="https://www.linkedin.com/in/eduru-venkata-sai-ganesh/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20" />
+  </a> <strong>LinkedIn:</strong> 
+  <a href="https://www.linkedin.com/in/eduru-venkata-sai-ganesh/">Eduru Venkata Sai Ganesh</a>
+  <br>
 
----
+  <a href="https://www.facebook.com/itz.me.e.v.s.ganesh?mibextid=zbwkwl" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="20" width="20" />
+  </a> <strong>Facebook:</strong> 
+  <a href="https://www.facebook.com/itz.me.e.v.s.ganesh?mibextid=zbwkwl">Sai Ganesh</a>
+  <br>
+
+  <a href="https://www.instagram.com/catastrophic_l?igsh=otz4oxqynhi0zme0" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" width="20" />
+  </a> <strong>Instagram:</strong> 
+  <a href="https://www.instagram.com/catastrophic_l?igsh=otz4oxqynhi0zme0">catastrophic_l</a>
+  <br>
+
+  <a href="https://discord.gg/sai_ganesh_113" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="20" width="20" />
+  </a> <strong>Discord:</strong> <code>sai_ganesh_113</code>
+</p>
+
 
 ## 📊 **GitHub Stats:**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiganesh113&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saiganesh113&show_icons=true&theme=default" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=saiganesh113&theme=radical&background=ffffff" width="48%" />
 </p>  
 <p align="center">
