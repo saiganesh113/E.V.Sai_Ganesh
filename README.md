@@ -58,8 +58,8 @@
 ## 📊 **GitHub Stats:**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saiganesh113&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saiganesh113&theme=radical&background=ffffff" width="48%" />
-</p>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiganesh113&theme=radical&background=ffffff" width="48%" />
+</p> 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saiganesh113&show_icons=true&locale=en&layout=compact" width="48%" />
 </p>  
